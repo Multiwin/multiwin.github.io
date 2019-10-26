@@ -1,0 +1,177 @@
+html {
+  background-image: url("005.png");
+}
+
+html {
+  color: black;
+  text-shadow: white 10px 10px 30px;
+  text-decoration: ;
+
+}
+
+table {
+  border: 3px solid gray;
+  margin: auto;
+  border-radius: 10px;
+  width: ;
+  padding: 10px;
+  text-align: justify;
+  text-align: ;
+  empty-cells: show;
+  background: ;
+  position:absolute;
+  top:0;
+  right:0;
+}
+
+td {
+    background: gray;
+    border: 1px solid black;
+    empty-cells: hide;
+    padding: 5px;
+    border-radius: 9px;
+   }
+
+#edu {
+  text-align: justify;
+  text-align: left;
+  border: 3px solid gray;
+  width: 400px;
+  padding: 20px;
+  margin: auto;
+  border-radius: 10px;
+}
+
+#work-exp {
+  text-align: justify;
+  text-align: left;
+  border: 3px solid gray;
+  width: 400px;
+  padding: 20px;
+  margin: auto;
+  border-radius: 10px;
+}
+
+#prof-skill {
+  text-align: justify;
+  text-align: left;
+  border: 3px solid gray;
+  width: 500px;
+  padding: 20px;
+  margin: auto;
+  border-radius: 10px;
+}
+
+#oth-skill {
+  text-align: justify;
+  text-align: left;
+  border: 3px solid gray;
+  width: 500px;
+  margin: auto;
+  border-radius: 10px;
+  padding: 20px;
+}
+
+
+#link {
+
+}
+
+a:hover {
+  color: black
+}
+
+a:link {
+  color: blue;
+ }
+a:visited {
+  color: #red;
+ }
+a:active {
+  color: #green;
+ }
+
+#name {
+    color: blue
+}
+
+#name:hover {
+  color:red;
+}
+
+h2 {
+  color: blue;
+}
+
+#image-centr {
+  width: 250px;
+  display: block;
+  margin: auto;
+
+}
+
+#image-wrap {
+  width: auto;
+  height: auto;
+}
+
+#link-centre {
+  text-align: left;
+  border: 3px solid gray;
+  width: 150px;
+  padding: 20px;
+  margin: left;
+  align: left;
+  position:absolute;
+  top:0;
+  left:0;
+  width:200px;
+  border-radius: 10px;
+
+}
+
+#data {
+  text-align: left;
+  border: 3px solid gray;
+  width: 250px;
+  margin: auto;
+  border-radius: 10px;
+}
+
+#Work-experience {
+  text-align: center;
+
+}
+
+#Work-experience:hover {
+  color:black;
+
+}
+
+#Education {
+  text-align: center;
+}
+
+#Education:hover {
+  color:black;
+}
+
+#Professional-skills {
+  text-align: center;
+}
+
+#Professional-skills:hover {
+  color:black;
+}
+
+#Other-skills {
+  text-align: center;
+}
+
+#Other-skills:hover {
+  color:black;
+}
+
+table:hover {
+  color:blue;
+}
